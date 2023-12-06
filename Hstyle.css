@@ -7,8 +7,9 @@
 }
 
 body {
-    background:red;
+    background:rgb(218, 214, 214);
     color: white;
+    background-image: url("194-1940743_mac-os-sierra-wallpaper-4k-iphone-x-wallpaper.jpg");
 
 }
 
@@ -105,7 +106,7 @@ body {
     width:40px;
     height:40px;
     background: transparent;
-    border:2px solid rgba(0, 2, 142, 0.836);
+    border:2px solid rgba(15, 129, 211, 0.836);
     border-radius: 50%;
     font-size:20px;
     color:rgba(0, 2, 142, 0.836);
